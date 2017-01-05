@@ -342,7 +342,8 @@ for.hints.enginebronzeoutput.desc=발전량은 연료마다 다릅니다. 최소
 for.hints.enginebronzeoutput.tag=연료를 입맛대로!
 for.hints.enginebronzewaste.desc=토탄엔진과 달리 비활성화 된 바이오가스 엔진은 바이오매스를 낭비하지 않습니다.
 for.hints.enginebronzewaste.tag=연료 절약!
-for.hints.enginecopperfuels.desc=Peat-fired engines can use untreated peat, but they can also use bituminous peat to double their energy output.
+for.hints.enginecopperfuels.desc=Peat-fired engines can use 
+peat, but they can also use bituminous peat to double their energy output.
 for.hints.enginecopperfuels.tag=모든 연료를 사용!
 for.hints.enginecopperwaste.desc=Disabled peat-fired engines continue to burn peat already removed from the stash without generating energy from it.
 for.hints.enginecopperwaste.tag=Beware wasting energy!
@@ -500,9 +501,9 @@ item.for.fertilizer_compound.name=비료
 item.for.forester_bag.name=나무꾼의 가방
 item.for.forester_bagT2.name=나무꾼의 실크가방
 
-item.for.frame_impregnated.name=조잡한 프레임
+item.for.frame_impregnated.name=강화 프레임
 item.for.frame_proven.name=고급 프레임
-item.for.frame_untreated.name=강화 프레임
+item.for.frame_untreated.name=조잡한 프레임
 
 item.for.fruits.cherry.name=체리
 item.for.fruits.chestnut.name=밤
